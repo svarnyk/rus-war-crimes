@@ -1,7 +1,11 @@
-.App {
-  text-align: center;
+.crimeTopography {
+  height: 100%;
 }
 
+.crimeTopography__wrapper {
+  padding: 56px 120px 76px;
+
+}
 
 
 

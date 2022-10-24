@@ -1,0 +1,7 @@
+.crimeTopography__statistic {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 24px;
+    padding-top: 24px;
+}
